@@ -1,3 +1,6 @@
 [submodule "client"]
 	path = client
 	url = git@github.com:SimardCodeTard/mini_chat-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/SimardCodeTard/mini_chat-server
